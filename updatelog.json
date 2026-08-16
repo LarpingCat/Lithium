@@ -1,16 +1,13 @@
 [
   {
-    "version": "LTH-B",
+    "version": "LTH-BETA",
     "type": "update",
     "date": "2026-08-14",
-    "robloxVersion": "version-abc123def456",
+    "robloxVersion": "version-ddf602d9cfe44005",
     "title": "Update log",
     "notes": [
-      "Added multi-tab editor system",
-      "Script Hub with scriptblox.com integration",
-      "New themes: Monokai, Dracula, One Dark, Solarized",
-      "Executor API autocomplete + highlighting"
+      "fixxed auth",
     ],
-    "status": "working"
+    "status": "beta/working"
   }
 ]
